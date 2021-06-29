@@ -2,4 +2,4 @@
 title: "Welcome to my blog"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Welcome to The Abbey.  I am Friar Buck and I will be your host while you are here.
